@@ -1,0 +1,9 @@
+{
+  "name": "mhrv-relay-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MasterHttpRelayVPN relay backend, Vercel Functions edition.",
+  "engines": {
+    "node": ">=18"
+  }
+}
